@@ -1,7 +1,0 @@
-echo "🎉 Chúc mừng sinh nhật Nguyễn Chí Dự! 🎂" > birthday.md
-echo "Tuổi mới:" >> birthday.md
-echo "- Code không bug" >> birthday.md
-echo "- Commit xanh mướt" >> birthday.md
-echo "- Merge request approve 5s" >> birthday.md
-echo "- Star repo tăng vù vù 🚀" >> birthday.md
-cat birthday.md
